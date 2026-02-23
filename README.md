@@ -1,1 +1,1 @@
-# RAG-Chatbot-with-FAISS-and-Moondream
+# rag-pdf-chatbot-faiss-moondream
